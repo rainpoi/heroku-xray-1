@@ -19,7 +19,7 @@
                 "vnext": [
                     {
                         "address": "$DOMAIN",
-                        "port": 443,
+                        "port": 843,
                         "users": [
                             {
                                 "id": "$UUID",
